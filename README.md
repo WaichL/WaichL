@@ -10,6 +10,7 @@ I'm an undergrad who builds things. My business background shapes how I think ab
 
 | Project | What it is | Status |
 |---|---|---|
+| [receipt-ai](https://github.com/WaichL/receipt-ai) | Conversational receipt tracker — photo or text in, Google Sheets out | 🚧 WIP |
 | [mapcompiler](https://github.com/WaichL/mapcompiler) | Export your travel journey as a map image | 🚧 WIP |
 | OpenClaw on EC2 | Personal AI agent for managing everyday workflows | 🧪 Experimenting |
 | [EZ Deeplearning](https://www.ezdeeplearning.com/) | English learning platform · freelance | 🚀 Live |
